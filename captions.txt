@@ -1,0 +1,24 @@
+1. Word Lemmatization
+2. TD-IDF Vectorization
+3. Word Stemming
+4. Stop Word Removal
+5. Cosine Similarity
+6. Support Vector Machine
+7. Feature Hashing
+8. Latent Dirichlet Allocation
+9. Jaccard Similarity
+10. K Means Clustering
+11. Word Tokenization
+12. Naive Bayes
+13. Logistic Regression
+14. Count Vectorization
+15. Word2Vec Embedding
+16. N-Gram Tokenization
+17. Gradient Boosting
+18. Random Forest
+19. Decision Tree
+20. Word Cloud
+21. Semantic Network
+22. Text Annotation
+23. DocuSEAR
+24. PyStorAI
