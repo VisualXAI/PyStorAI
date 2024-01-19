@@ -1,4 +1,4 @@
-1. Word Lemmatization
+1. Word Lemmatization is the reducing of words into a basic root form.
 2. TD-IDF Vectorization
 3. Word Stemming
 4. Stop Word Removal
