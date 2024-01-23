@@ -1,13 +1,13 @@
-1. Word Lemmatization.
-2. TD-IDF Vectorization
+1. Cosine Similarity
+2. K Means Clustering
 3. Word Stemming
 4. Stop Word Removal
-5. Cosine Similarity
+5. Word Lemmatization
 6. Support Vector Machine
 7. Feature Hashing
 8. Latent Dirichlet Allocation
 9. Jaccard Similarity
-10. K Means Clustering
+10. TF-IDF Vectoorization
 11. Word Tokenization
 12. Naive Bayes
 13. Logistic Regression
