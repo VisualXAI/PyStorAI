@@ -1,17 +1,17 @@
 1. Cosine Similarity
 2. K Means Clustering
-3. Word Stemming
-4. Stop Word Removal
+3. Latent Dirichlet Allocation
+4. Count Vectorisation
 5. Word Lemmatization
 6. Support Vector Machine
 7. Feature Hashing
-8. Latent Dirichlet Allocation
+8. Linear Regression
 9. Jaccard Similarity
 10. TF-IDF Vectoorization
 11. Word Tokenization
 12. Naive Bayes
 13. Logistic Regression
-14. Count Vectorization
+14. N-grams
 15. Word2Vec Embedding
 16. N-Gram Tokenization
 17. Gradient Boosting
