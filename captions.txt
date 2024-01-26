@@ -2,10 +2,10 @@
 2. K Means Clustering
 3. Latent Dirichlet Allocation
 4. Count Vectorisation
-5. Word Lemmatization
-6. Support Vector Machine
-7. Feature Hashing
-8. Linear Regression
+5. Stop Word Removal
+6. TF-IDF Vectorisation
+7. Web Scraping
+8. Word Stemming
 9. Jaccard Similarity
 10. TF-IDF Vectoorization
 11. Word Tokenization
