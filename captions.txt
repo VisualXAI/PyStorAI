@@ -1,24 +1,24 @@
-1. Cosine Similarity
-2. K Means Clustering
-3. Latent Dirichlet Allocation
-4. Count Vectorisation
+1. Web Scraping
+2. Text Extraction
+3. Word Tokenisation
+4. Lowercase Conversion
 5. Stop Word Removal
-6. TF-IDF Vectorisation
-7. Web Scraping
-8. Word Stemming
-9. Jaccard Similarity
-10. TF-IDF Vectoorization
-11. Word Tokenization
-12. Naive Bayes
-13. Logistic Regression
-14. N-grams
-15. Word2Vec Embedding
-16. N-Gram Tokenization
-17. Gradient Boosting
-18. Random Forest
-19. Decision Tree
+6. Word Stemming
+7. Count Vectorisation
+8. TF-IDF Vectorisation
+9. Cosine Similarity
+10. LDA Topic Modelling
+11. K Means Clustering
+12. Train Test Split
+13. SVM Classification
+14. Model Training
+15. Model Prediction
+16. Accuracy Score
+17. LIME Explanation
+18. SHAP (local)
+19. SHAP (global)
 20. Word Cloud
 21. Semantic Network
 22. Text Annotation
-23. DocuSEAR
-24. PyStorAI
+23. Naive Bayes
+24. Logistic Regression
