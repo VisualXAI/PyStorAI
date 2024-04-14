@@ -14,7 +14,7 @@
 14. Model Training
 15. Model Prediction
 16. Accuracy Score
-17. LIME Explanation
+17. LIME (tabular)
 18. SHAP (local)
 19. SHAP (global)
 20. Word Cloud
