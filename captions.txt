@@ -12,9 +12,9 @@
 12. Train Test Split
 13. SVM Classifier
 14. Accuracy Score
-15. LIME (local)
-16. SHAP (local)
-17. SHAP (global)
+15. SHAP (global)
+16. LIME (local)
+17. SHAP (local)
 18. PFI (global)
 19. Word Cloud
 20. Semantic Network
