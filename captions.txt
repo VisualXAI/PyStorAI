@@ -10,15 +10,15 @@
 10. LDA Topic Modelling
 11. K Means Clustering
 12. Train Test Split
-13. SVM Classification
-14. Model Training
-15. Model Prediction
-16. Accuracy Score
-17. LIME (tabular)
-18. SHAP (local)
-19. SHAP (global)
-20. Word Cloud
-21. Semantic Network
-22. Text Annotation
+13. SVM Classifier
+14. Accuracy Score
+15. LIME (local)
+16. SHAP (local)
+17. SHAP (global)
+18. PFI (global)
+19. Word Cloud
+20. Semantic Network
+21. Model Training
+22. Model Prediction
 23. Naive Bayes
-24. Logistic Regression
+24. Logistic Regression 
