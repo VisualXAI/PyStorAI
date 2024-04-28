@@ -1,7 +1,7 @@
 1. Web Scraping
 2. Text Extraction
-3. Word Tokenisation
-4. Lowercase Conversion
+3. Lowercase Conversion
+4. Word Tokenisation
 5. Stop Word Removal
 6. Word Stemming
 7. Count Vectorisation
