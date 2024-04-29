@@ -14,11 +14,8 @@
 14. Accuracy Score
 15. SHAP (global)
 16. LIME (local)
-17. SHAP (local)
-18. PFI (global)
-19. Word Cloud
-20. Semantic Network
-21. Model Training
-22. Model Prediction
-23. Naive Bayes
-24. Logistic Regression 
+17. Word Cloud
+18. Semantic Network
+19. SHAP (local)
+20. PFI (global)
+
