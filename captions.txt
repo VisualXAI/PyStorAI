@@ -13,7 +13,7 @@
 13. SVM Classifier
 14. Accuracy Score
 15. SHAP (global)
-16. LIME (local)
+16. LIME (tabular)
 17. Word Cloud
 18. Semantic Network
 19. SHAP (local)
