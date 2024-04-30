@@ -8,7 +8,7 @@
 8. TF-IDF Vectorisation
 9. Cosine Similarity
 10. LDA Topic Modelling
-11. K Means Clustering
+11. K-Means Clustering
 12. Train Test Split
 13. SVM Classifier
 14. Accuracy Score
